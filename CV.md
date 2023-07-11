@@ -13,19 +13,19 @@ I am an ambitious, motivated and responsible professional with a background in f
 
 ## Skills
 
-HTML
-CSS
+HTML  
+CSS  
 JavaScript
 
 ## Languages
 
-Russian-Mother Tongue
-Turkish- FLuent
+Russian-Mother Tongue  
+Turkish- FLuent  
 English- B2
 
 ## Education
 
-Bosphorus University
-_Faculty of Economics and Administrative Sciences_
-Department of MANAGEMENT
+Bosphorus University  
+_Faculty of Economics and Administrative Sciences_  
+Department of MANAGEMENT  
 2009-2014
